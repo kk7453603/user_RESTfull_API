@@ -3,7 +3,7 @@ package bookmark
 import (
 	"context"
 
-	"github.com/zhashkevych/go-clean-architecture/models"
+	"github.com/kk7453603/user_RESTfull_API/models"
 )
 
 type Repository interface {
